@@ -1,0 +1,11 @@
+# Ignorar archivos y directorios generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar directorios específicos
+/node_modules
+/dist
+
+# Ignorar archivos específicos
+.env
+*.log
